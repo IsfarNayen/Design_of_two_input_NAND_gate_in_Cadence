@@ -1,17 +1,4 @@
-# VLSI Technology Sessional - Experiment 07
-
-## Schematic Driven Layout Design of a NAND Gate Using Virtuoso Layout Suite Editor XL
-
-### Student Information
-- **Name:** Isfar Nayen  
-- **ID:** 1908023  
-- **Level:** 04  
-- **Term:** 01  
-- **Group:** 01  
-- **Date of Experiment:** 29-09-2024  
-- **Date of Submission:** 06-10-2024  
-
----
+# Schematic Driven Layout Design of a NAND Gate Using Virtuoso Layout Suite Editor XL
 
 ## Objectives
 - To familiarize with schematic-driven layout design.
@@ -67,6 +54,14 @@ After performing **RCX extraction**, the av_extracted view was created and simul
 
 ## Conclusion
 This experiment successfully demonstrated the complete flow of schematic-driven layout design, verification, and simulation for a NAND gate using Cadence Virtuoso.
+
+---
+
+## Contact
+- LinkedIn: [Isfar Nayen](https://www.linkedin.com/in/isfar-nayen-0ba8ba341/)
+- Kaggle: [Isfar Nayen](https://www.kaggle.com/isfarnayen)
+- 🔗 GitHub: [Isfar Nayen](https://github.com/IsfarNayen)
+- 📧 Email: isfar8953@gmail.com
 
 ---
 
